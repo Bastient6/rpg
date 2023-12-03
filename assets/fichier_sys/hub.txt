@@ -1,0 +1,1 @@
+map:assets/maps/hub.png assets/maps/hub.csv 48

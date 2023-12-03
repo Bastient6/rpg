@@ -1,0 +1,1 @@
+map:assets/maps/map_sous-sol.png assets/maps/map_sous-sol.csv 32

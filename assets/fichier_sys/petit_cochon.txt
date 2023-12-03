@@ -1,0 +1,4 @@
+map:assets/maps/petit_cochon.png assets/maps/petit_cochon_tumarchepasla_tumarchepasla.csv 16
+item:cochon 390 260 assets/items/cochon.png
+item:cochon 1000 700 assets/items/cochon.png
+item:cochon 270 700 assets/items/cochon.png

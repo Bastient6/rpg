@@ -1,0 +1,5 @@
+map:assets/maps/petit_chaperon_rouge.png assets/maps/petit_chaperon_rouge_tupeuxpasmarcher.csv 16
+item:galette 1590 920 assets/sprites/galette.png
+item:poison 123 125 assets/sprites/poison.png
+pnj:Villageois 930 250 assets/sprites/monsieur.png
+Salut, je suis un villageois et je suis la pour t'aider a tuer le loup

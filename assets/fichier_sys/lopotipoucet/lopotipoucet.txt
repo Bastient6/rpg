@@ -1,0 +1,3 @@
+map:assets/maps/map_maison.png assets/maps/maison_lopotipoucet.csv 32
+item:salt 530 210 assets/items/salt01.png
+item:feather 100 100 assets/items/feather01.png

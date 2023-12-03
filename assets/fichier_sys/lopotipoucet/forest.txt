@@ -1,0 +1,1 @@
+map:assets/maps/big_forest.png assets/maps/big_forest.csv 32
